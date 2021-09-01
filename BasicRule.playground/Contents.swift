@@ -15,3 +15,8 @@ x * x
 var myName = "名前"
 
 print(myName)
+
+var x = 3
+
+x * x
+
